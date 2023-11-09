@@ -3,7 +3,7 @@ import serial
 class duinodata:
     def __init__(self, path: str):
         self.ser = serial.Serial(path, 9600)
-        self.label = ('temperature', 'humidity', 'light')
+        self.label = ('humidity', 'temperature', 'light')
 
     def read(self):
         self.ser.write(b'1')
