@@ -1,0 +1,4 @@
+from dataduino import duino
+
+ser=duino.duinodata('COM12')
+print(ser.read())

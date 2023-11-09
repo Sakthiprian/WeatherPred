@@ -2,6 +2,8 @@ import requests
 import pandas as pd
 import time
 from datetime import datetime
+from dataduino import duino
+import os
 
 api_url = 'https://api.weatherbit.io/v2.0/current'
 
@@ -17,6 +19,8 @@ headers = {
 }
 
 df = pd.DataFrame()  # Create an empty DataFrame outside the loop
+ser=duino.duinodata('COM12')
+time.sleep(2)
 
 while True:
 
@@ -25,21 +29,23 @@ while True:
     if response.status_code == 200:
         data = response.json()
         for item in data['data']:
+
+            attr=ser.read()
             data_model = {
-                'temp': item['temp'],
-                'pres': item['pres'],
-                'relative humidity': item['rh'],
-                'last_obs': item['ob_time'],
-                'time_now':datetime.now().strftime("%H:%M:%S"),
+                'temperature':attr['temperature'],
+                'humidity':attr['humidity'],
+                'light':attr['light'],
                 'weather_description': item['weather']['description']
             }
-            temp = pd.DataFrame([data_model])  # Create a DataFrame for each data point
-            df = pd.concat([df, temp])  # Append the data to the main DataFrame
+            temp_label = pd.DataFrame([data_model])  # Create a DataFrame for each data point
+            df = pd.concat([df, temp_label])  # Append the data to the main DataFrame
             print(df)
+            
     else:
         print(f"Request failed with status code: {response.status_code}")
         print(response.text)
 
     response.close()
 
-    time.sleep(600)
+    time.sleep(2)
+    os.system('cls' if os.name == 'nt' else 'clear')

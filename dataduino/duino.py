@@ -1,6 +1,5 @@
 import serial
 
-
 class duinodata:
     def __init__(self, path: str):
         self.ser = serial.Serial(path, 9600)
