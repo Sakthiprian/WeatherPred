@@ -8,8 +8,8 @@ import os
 api_url = 'https://api.weatherbit.io/v2.0/current'
 
 params = {
-    'lat': '13.124620',   # latitude of Kandigai
-    'lon': '80.193176',   # longitude of Kandigai
+    'lat': '12.8513',   # latitude of kandigai
+    'lon': '80.1470',   # longitude of kandigai
     'key': 'd8444b8f69634c0b9d3369b034820820',  # Weatherbit API key
     'units': 'M',  # Metric units (you can change this to 'I' for imperial or 'S' for scientific)
 }
@@ -19,33 +19,45 @@ headers = {
 }
 
 df = pd.DataFrame()  # Create an empty DataFrame outside the loop
-ser=duino.duinodata('COM12')
-time.sleep(2)
+ser = duino.duinodata('COM11')
+time.sleep(7)
 
 while True:
+    try:
+        response = requests.get(api_url, params=params, headers=headers)
+        
+        if response.status_code == 200:
+            data = response.json()
+            for item in data['data']:
+                attr = ser.read()
+                data_model = {
+                    'temperature': attr['temperature'],
+                    'humidity': attr['humidity'],
+                    'light': attr['light'],
+                    'weather_description': item['weather']['description'],
+                    'time_obs': item['ob_time'],
+                    'time_rec':datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                }
+                temp_label = pd.DataFrame([data_model])  # Create a DataFrame for each data point
+                df = pd.concat([df, temp_label])  # Append the data to the main DataFrame
+                print(df)
 
-    response = requests.get(api_url, params=params,headers=headers)
+                # Append the newest row to the CSV file
+                temp_label.to_csv('weather_data.csv', mode='a', header=False, index=False)
+                
+        else:
+            print(f"Request failed with status code: {response.status_code}")
+            print(response.text)
 
-    if response.status_code == 200:
-        data = response.json()
-        for item in data['data']:
+        response.close()
 
-            attr=ser.read()
-            data_model = {
-                'temperature':attr['temperature'],
-                'humidity':attr['humidity'],
-                'light':attr['light'],
-                'weather_description': item['weather']['description']
-            }
-            temp_label = pd.DataFrame([data_model])  # Create a DataFrame for each data point
-            df = pd.concat([df, temp_label])  # Append the data to the main DataFrame
-            print(df)
-            
-    else:
-        print(f"Request failed with status code: {response.status_code}")
-        print(response.text)
+    except requests.RequestException as e:
+        print(f"Error: {e}")
+        # Sleep for a while before trying again
+        time.sleep(60)  # Sleep for 1 minutes in case of network issues
 
-    response.close()
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
 
-    time.sleep(2)
+    time.sleep(600)  # Sleep for 2 minutes between each iteration
     os.system('cls' if os.name == 'nt' else 'clear')
