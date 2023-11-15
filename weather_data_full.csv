@@ -1,966 +1,966 @@
-temperature,humidity,weather_description
-31.0,73.0,Haze
-30.0,74.0,Haze
-30.0,72.0,Haze
-30.0,73.0,Haze
-30.0,74.0,Haze
-30.0,74.0,Haze
-30.0,74.0,Haze
-30.0,74.0,Haze
-30.0,75.0,Haze
-30.0,75.0,Haze
-30.0,75.0,Haze
-29.0,76.0,Haze
-29.0,76.0,Haze
-29.0,76.0,Haze
-29.0,76.0,Haze
-29.0,76.0,Haze
-29.0,76.0,Haze
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,77.0,Fog
-29.0,78.0,Fog
-29.0,78.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-28.0,80.0,Fog
-28.0,80.0,Fog
-28.0,80.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,85.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-30.0,77.0,Fog
-30.0,77.0,Fog
-30.0,77.0,Haze
-30.0,76.0,Haze
-30.0,76.0,Haze
-30.0,76.0,Haze
-30.0,75.0,Haze
-30.0,75.0,Haze
-30.0,73.0,Haze
-30.0,71.0,Haze
-30.0,72.0,Haze
-30.0,72.0,Haze
-30.0,71.0,Haze
-30.0,71.0,Haze
-30.0,69.0,Haze
-31.0,71.0,Haze
-30.0,70.0,Haze
-30.0,70.0,Haze
-31.0,70.0,Haze
-30.0,70.0,Haze
-31.0,68.0,Haze
-31.0,71.0,Haze
-31.0,70.0,Haze
-31.0,71.0,Haze
-30.0,71.0,Haze
-31.0,71.0,Haze
-30.0,73.0,Haze
-30.0,71.0,Haze
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,75.0,Fog
-29.0,75.0,Fog
-29.0,75.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Fog
-29.0,77.0,Fog
-29.0,78.0,Fog
-29.0,78.0,Fog
-29.0,79.0,Fog
-29.0,79.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,82.0,Fog
-29.0,82.0,Fog
-29.0,81.0,Fog
-29.0,83.0,Fog
-29.0,83.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-28.0,83.0,Fog
-29.0,82.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,79.0,Fog
-29.0,77.0,Fog
-29.0,76.0,Fog
-29.0,76.0,Haze
-29.0,76.0,Haze
-29.0,74.0,Haze
-29.0,74.0,Haze
-29.0,75.0,Haze
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,80.0,Fog
-29.0,81.0,Fog
-29.0,81.0,Fog
-29.0,81.0,Scattered clouds
-29.0,82.0,Broken clouds
-29.0,84.0,Scattered clouds
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,83.0,Fog
-29.0,83.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Fog
-29.0,84.0,Heavy rain
-29.0,84.0,Heavy rain
-29.0,84.0,Heavy rain
-29.0,85.0,Heavy rain
-29.0,86.0,Heavy rain
-28.0,87.0,Heavy rain
-28.0,87.0,Moderate rain
-28.0,85.0,Moderate rain
-28.0,85.0,Moderate rain
-28.0,84.0,Moderate rain
-28.0,84.0,Overcast clouds
-28.0,84.0,Overcast clouds
-28.0,85.0,Moderate rain
-28.0,85.0,Moderate rain
-28.0,86.0,Moderate rain
-28.0,86.0,Heavy rain
-28.0,87.0,Heavy rain
-28.0,86.0,Heavy rain
-28.0,85.0,Heavy rain
-28.0,85.0,Heavy rain
-28.0,86.0,Moderate rain
-28.0,86.0,Moderate rain
-28.0,86.0,Light rain
-28.0,85.0,Moderate rain
-28.0,84.0,Light rain
-28.0,84.0,Light rain
-28.0,84.0,Light rain
-28.0,84.0,Light rain
-28.0,85.0,Light rain
-28.0,85.0,Light rain
-28.0,85.0,Light rain
-28.0,86.0,Light rain
-28.0,87.0,Light rain
-28.0,87.0,Light rain
-28.0,86.0,Light rain
-28.0,85.0,Light rain
-28.0,85.0,Light rain
-28.0,85.0,Light rain
-28.0,85.0,Light rain
-28.0,84.0,Overcast clouds
-28.0,84.0,Overcast clouds
-28.0,84.0,Overcast clouds
-28.0,84.0,Overcast clouds
-28.0,84.0,Overcast clouds
-28.0,84.0,Overcast clouds
-28.0,84.0,Broken clouds
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,84.0,Fog
-28.0,87.0,Overcast clouds
-28.0,87.0,Overcast clouds
-27.0,92.0,Light rain
-27.0,90.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-26.5,91.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.5,91.0,Haze
-27.0,88.0,Haze
-27.0,88.0,Haze
-27.0,88.0,Haze
-27.0,88.0,Haze
-27.0,88.0,Haze
-26.5,91.0,Haze
-26.0,94.0,Haze
-26.0,94.0,Haze
-26.0,94.0,Haze
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.5,93.0,Light rain
-27.0,93.0,Light rain
-27.0,93.0,Light rain
-27.0,94.0,Haze
-27.0,94.0,Haze
-27.0,94.0,Haze
-26.0,94.0,Haze
-25.0,94.0,Haze
-25.0,94.0,Haze
-25.0,94.0,Haze
-25.5,91.0,Haze
-26.0,88.0,Haze
-25.8,91.0,Overcast clouds
-25.6,94.0,Overcast clouds
-25.8,94.0,Overcast clouds
-26.0,94.0,Haze
-26.0,94.0,Haze
-26.0,94.0,Haze
-26.5,94.0,Haze
-27.0,94.0,Haze
-27.5,94.0,Haze
-28.0,94.0,Haze
-28.5,94.0,Haze
-29.0,94.0,Overcast clouds
-28.7,90.0,Overcast clouds
-28.4,86.0,Overcast clouds
-28.7,87.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.5,86.0,Overcast clouds
-30.0,84.0,Overcast clouds
-29.5,83.0,Overcast clouds
-29.0,83.0,Haze
-28.5,86.0,Haze
-28.0,88.0,Haze
-28.0,88.0,Overcast clouds
-28.0,88.0,Overcast clouds
-27.5,91.0,Overcast clouds
-27.0,93.0,Overcast clouds
-27.5,88.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-27.5,86.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-26.6,91.0,Light rain
-26.2,93.0,Light rain
-26.6,91.0,Light rain
-27.0,88.0,Light rain
-26.5,88.0,Light rain
-26.0,88.0,Haze
-26.0,88.0,Haze
-26.0,88.0,Haze
-26.0,91.0,Haze
-26.0,94.0,Haze
-26.0,94.0,Haze
-26.0,94.0,Haze
-25.9,96.0,Overcast clouds
-25.8,98.0,Fog
-25.9,96.0,Overcast clouds
-26.0,94.0,Haze
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,91.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Haze
-25.6,93.0,Broken clouds
-25.2,98.0,Light rain
-25.6,93.0,Light rain
-26.0,88.0,Light rain
-26.0,91.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Haze
-25.7,95.0,Overcast clouds
-25.4,96.0,Light rain
-25.7,92.0,Overcast clouds
-26.0,88.0,Haze
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,91.0,Light rain
-26.0,94.0,Light rain
-25.8,94.0,Light rain
-25.6,94.0,Overcast clouds
-25.8,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.5,94.0,Overcast clouds
-27.0,94.0,Overcast clouds
-27.0,94.0,Overcast clouds
-27.0,94.0,Overcast clouds
-27.5,91.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.3,86.0,Overcast clouds
-28.6,83.0,Broken clouds
-28.8,86.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.5,86.0,Light rain
-30.0,84.0,Light rain
-30.0,81.0,Light rain
-30.0,79.0,Light rain
-30.5,79.0,Light rain
-31.0,79.0,Light rain
-30.8,72.0,Light rain
-30.6,65.0,Light rain
-30.3,72.0,Light rain
-30.0,79.0,Light rain
-30.0,79.0,Light rain
-30.0,79.0,Overcast clouds
-29.5,79.0,Light rain
-29.0,79.0,Light rain
-29.0,79.0,Light rain
-29.0,79.0,Light rain
-28.5,81.0,Light rain
-28.0,83.0,Light rain
-27.8,84.0,Light rain
-27.6,84.0,Light rain
-27.3,86.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-26.8,89.0,Light rain
-26.6,90.0,Light rain
-26.3,92.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Overcast clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.5,91.0,Broken clouds
-27.0,88.0,Broken clouds
-26.6,90.0,Broken clouds
-26.2,92.0,Broken clouds
-26.6,90.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Broken clouds
-26.5,91.0,Light rain
-26.0,94.0,Light rain
-25.9,95.0,Light rain
-25.8,96.0,Light rain
-25.9,95.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-25.7,95.0,Light rain
-25.4,96.0,Light rain
-25.7,95.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.5,91.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.1,88.0,Light rain
-27.2,87.0,Broken clouds
-28.1,88.0,Broken clouds
-29.0,88.0,Broken clouds
-29.0,88.0,Broken clouds
-29.0,88.0,Broken clouds
-29.5,83.0,Broken clouds
-30.0,79.0,Broken clouds
-30.0,81.0,Broken clouds
-30.0,84.0,Broken clouds
-30.5,79.0,Light rain
-31.0,74.0,Light rain
-30.6,75.0,Light rain
-30.2,75.0,Light rain
-30.6,75.0,Light rain
-31.0,74.0,Light rain
-31.0,74.0,Light rain
-31.0,74.0,Light rain
-31.0,77.0,Light rain
-31.0,79.0,Broken clouds
-30.5,79.0,Broken clouds
-30.0,79.0,Overcast clouds
-30.0,79.0,Overcast clouds
-30.0,79.0,Light rain
-30.0,73.0,Light rain
-30.0,67.0,Light rain
-29.5,75.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-28.3,84.0,Light rain
-27.6,84.0,Broken clouds
-27.8,84.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-27.5,85.0,Broken clouds
-27.0,87.0,Broken clouds
-27.5,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-27.3,89.0,Broken clouds
-26.6,90.0,Broken clouds
-27.3,89.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,86.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-27.5,86.0,Broken clouds
-27.0,88.0,Broken clouds
-26.6,90.0,Broken clouds
-26.2,92.0,Broken clouds
-26.6,90.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-26.3,90.0,Broken clouds
-25.6,93.0,Scattered clouds
-25.8,93.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.5,91.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,91.0,Broken clouds
-27.0,94.0,Broken clouds
-27.5,91.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,87.0,Broken clouds
-28.5,88.0,Broken clouds
-29.0,88.0,Broken clouds
-29.5,86.0,Broken clouds
-30.0,84.0,Overcast clouds
-30.5,81.0,Overcast clouds
-31.0,79.0,Overcast clouds
-31.0,79.0,Overcast clouds
-31.0,79.0,Overcast clouds
-30.5,81.0,Overcast clouds
-30.0,84.0,Overcast clouds
-30.3,81.0,Overcast clouds
-30.6,79.0,Overcast clouds
-30.3,79.0,Overcast clouds
-30.0,79.0,Overcast clouds
-30.0,81.0,Overcast clouds
-30.0,84.0,Overcast clouds
-30.5,81.0,Overcast clouds
-31.0,79.0,Overcast clouds
-30.5,81.0,Overcast clouds
-30.0,84.0,Overcast clouds
-30.0,84.0,Overcast clouds
-30.0,84.0,Overcast clouds
-30.1,78.0,Overcast clouds
-30.2,74.0,Broken clouds
-30.1,76.0,Broken clouds
-30.0,79.0,Broken clouds
-29.5,81.0,Broken clouds
-29.0,83.0,Broken clouds
-29.5,81.0,Broken clouds
-30.0,79.0,Broken clouds
-29.5,81.0,Broken clouds
-29.0,83.0,Broken clouds
-29.0,83.0,Broken clouds
-29.0,83.0,Broken clouds
-28.5,84.0,Broken clouds
-28.0,84.0,Broken clouds
-28.0,84.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-27.6,86.0,Broken clouds
-27.2,88.0,Broken clouds
-27.6,86.0,Broken clouds
-28.0,83.0,Broken clouds
-27.5,86.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-26.6,91.0,Light rain
-26.2,93.0,Light rain
-26.1,93.0,Light rain
-26.0,94.0,Light rain
-26.5,91.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-26.5,91.0,Light rain
-26.0,94.0,Light rain
-26.1,93.0,Light rain
-26.2,93.0,Light rain
-26.1,93.0,Light rain
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,91.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,91.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.3,92.0,Overcast clouds
-26.6,90.0,Overcast clouds
-27.3,89.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.0,91.0,Overcast clouds
-28.0,94.0,Overcast clouds
-28.5,91.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.0,88.0,Overcast clouds
-29.0,83.0,Overcast clouds
-29.0,79.0,Haze
-29.2,79.0,Broken clouds
-29.4,80.0,Broken clouds
-28.2,84.0,Broken clouds
-27.0,88.0,Haze
-27.5,88.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.5,88.0,Light rain
-29.0,88.0,Light rain
-29.5,86.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.3,76.0,Broken clouds
-30.6,70.0,Scattered clouds
-30.8,74.0,Broken clouds
-31.0,79.0,Overcast clouds
-31.0,77.0,Overcast clouds
-31.0,74.0,Overcast clouds
-30.5,76.0,Overcast clouds
-30.0,79.0,Overcast clouds
-30.0,79.0,Overcast clouds
-30.0,79.0,Overcast clouds
-29.5,81.0,Overcast clouds
-29.0,83.0,Overcast clouds
-29.0,81.0,Broken clouds
-29.0,79.0,Scattered clouds
-28.5,81.0,Broken clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-27.5,86.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.5,86.0,Light rain
-28.0,83.0,Light rain
-27.5,85.0,Light rain
-27.0,87.0,Light rain
-27.5,85.0,Light rain
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-28.0,83.0,Overcast clouds
-27.5,86.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-26.6,90.0,Broken clouds
-26.2,92.0,Haze
-26.1,90.0,Broken clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,91.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,93.0,Broken clouds
-26.0,93.0,Haze
-26.0,93.0,Haze
-26.0,94.0,Overcast clouds
-26.0,91.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,90.0,Light rain
-26.0,92.0,Light rain
-26.0,90.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Haze
-26.0,91.0,Haze
-26.0,94.0,Haze
-26.5,91.0,Haze
-27.0,88.0,Haze
-27.0,91.0,Haze
-27.0,94.0,Haze
-27.9,88.0,Broken clouds
-28.8,83.0,Overcast clouds
-28.9,86.0,Broken clouds
-29.0,88.0,Broken clouds
-29.5,86.0,Broken clouds
-30.0,84.0,Broken clouds
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.1,79.0,Overcast clouds
-30.2,75.0,Overcast clouds
-30.1,79.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.0,84.0,Light rain
-30.5,81.0,Light rain
-31.0,79.0,Light rain
-30.5,79.0,Light rain
-30.0,79.0,Light rain
-29.0,81.0,Light rain
-28.0,83.0,Light rain
-29.0,79.0,Light rain
-30.0,75.0,Light rain
-29.5,79.0,Light rain
-29.0,83.0,Light rain
-29.5,83.0,Light rain
-30.0,84.0,Light rain
-29.5,83.0,Light rain
-29.0,83.0,Light rain
-28.5,83.0,Light rain
-28.0,83.0,Haze
-28.5,83.0,Haze
-29.0,83.0,Haze
-28.8,82.0,Haze
-28.6,80.0,Haze
-28.3,82.0,Haze
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,86.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Broken clouds
-28.0,88.0,Overcast clouds
-28.0,86.0,Broken clouds
-28.0,84.0,Scattered clouds
-28.0,86.0,Broken clouds
-28.0,88.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.0,86.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Broken clouds
-28.0,83.0,Light rain
-27.5,87.0,Light rain
-27.0,90.0,Light rain
-27.0,89.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Light rain
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-27.0,88.0,Broken clouds
-26.7,89.0,Broken clouds
-26.4,90.0,Scattered clouds
-26.2,92.0,Broken clouds
-26.0,94.0,Haze
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Moderate rain
-26.0,88.0,Moderate rain
-26.0,88.0,Moderate rain
-26.0,88.0,Moderate rain
-26.0,88.0,Moderate rain
-26.0,94.0,Moderate rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,94.0,Light rain
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,94.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.0,88.0,Overcast clouds
-28.0,88.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Overcast clouds
-30.0,83.0,Overcast clouds
-30.0,83.0,Light rain
-30.0,83.0,Light rain
-30.0,83.0,Light rain
-29.0,83.0,Light rain
-28.0,83.0,Light rain
-28.0,83.0,Light rain
-28.0,83.0,Light rain
-30.0,83.0,Light rain
-30.0,83.0,Light rain
-29.0,83.0,Overcast clouds
-29.0,83.0,Overcast clouds
-29.0,83.0,Overcast clouds
-30.0,79.0,Overcast clouds
-30.0,79.0,Overcast clouds
-30.0,79.0,Broken clouds
-30.0,79.0,Broken clouds
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,83.0,Light rain
-29.0,79.0,Light rain
-29.0,79.0,Overcast clouds
-29.0,79.0,Overcast clouds
-26.0,88.0,Overcast clouds
-26.0,94.0,Overcast clouds
-26.0,94.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,88.0,Overcast clouds
-27.0,94.0,Overcast clouds
-27.0,94.0,Overcast clouds
-27.0,94.0,Overcast clouds
-27.0,94.0,Overcast clouds
-25.0,94.0,Overcast clouds
-25.0,94.0,Light rain
-25.0,88.0,Light rain
-25.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,88.0,Light rain
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
-26.0,94.0,Broken clouds
+temperature,humidity,weather_description,time_seconds
+31.0,73.0,Haze,55153
+30.0,74.0,Haze,55753
+30.0,72.0,Haze,56354
+30.0,73.0,Haze,56955
+30.0,74.0,Haze,57555
+30.0,74.0,Haze,60636
+30.0,74.0,Haze,61236
+30.0,74.0,Haze,61837
+30.0,75.0,Haze,62438
+30.0,75.0,Haze,63038
+30.0,75.0,Haze,63639
+29.0,76.0,Haze,64239
+29.0,76.0,Haze,64840
+29.0,76.0,Haze,65440
+29.0,76.0,Haze,66041
+29.0,76.0,Haze,66642
+29.0,76.0,Haze,67242
+29.0,76.0,Fog,67843
+29.0,76.0,Fog,68443
+29.0,76.0,Fog,69044
+29.0,76.0,Fog,69644
+29.0,76.0,Fog,70245
+29.0,76.0,Fog,70845
+29.0,76.0,Fog,71446
+29.0,76.0,Fog,72047
+29.0,76.0,Fog,72647
+29.0,77.0,Fog,73248
+29.0,78.0,Fog,73848
+29.0,78.0,Fog,74449
+29.0,79.0,Fog,75050
+29.0,79.0,Fog,75650
+29.0,79.0,Fog,76251
+29.0,79.0,Fog,76851
+29.0,79.0,Fog,77452
+29.0,79.0,Fog,78052
+29.0,79.0,Fog,78653
+29.0,80.0,Fog,79254
+29.0,80.0,Fog,79854
+29.0,80.0,Fog,80455
+29.0,80.0,Fog,81055
+29.0,80.0,Fog,81656
+29.0,80.0,Fog,82257
+29.0,80.0,Fog,82857
+29.0,80.0,Fog,83458
+29.0,80.0,Fog,84058
+29.0,80.0,Fog,84659
+29.0,80.0,Fog,85260
+29.0,80.0,Fog,85860
+29.0,80.0,Fog,61
+29.0,80.0,Fog,661
+29.0,80.0,Fog,1262
+29.0,80.0,Fog,1864
+29.0,80.0,Fog,2465
+29.0,80.0,Fog,3065
+29.0,80.0,Fog,3666
+29.0,80.0,Fog,4267
+29.0,80.0,Fog,4867
+29.0,80.0,Fog,5468
+29.0,80.0,Fog,6068
+29.0,80.0,Fog,6669
+29.0,80.0,Fog,7269
+29.0,80.0,Fog,7870
+29.0,80.0,Fog,8471
+28.0,80.0,Fog,9071
+28.0,80.0,Fog,9672
+28.0,80.0,Fog,10272
+28.0,84.0,Fog,24607
+28.0,84.0,Fog,25207
+28.0,84.0,Fog,25808
+28.0,84.0,Fog,26409
+28.0,84.0,Fog,27009
+28.0,84.0,Fog,27610
+28.0,84.0,Fog,28210
+28.0,85.0,Fog,28811
+28.0,84.0,Fog,29412
+28.0,84.0,Fog,30012
+28.0,84.0,Fog,30613
+28.0,84.0,Fog,31213
+28.0,84.0,Fog,31814
+28.0,83.0,Fog,32415
+28.0,83.0,Fog,33015
+28.0,83.0,Fog,33616
+29.0,80.0,Fog,34217
+29.0,80.0,Fog,34817
+29.0,80.0,Fog,35418
+29.0,80.0,Fog,36018
+29.0,80.0,Fog,36619
+29.0,80.0,Fog,37220
+29.0,80.0,Fog,37820
+29.0,79.0,Fog,38421
+29.0,79.0,Fog,39022
+30.0,77.0,Fog,39622
+30.0,77.0,Fog,40223
+30.0,77.0,Haze,40823
+30.0,76.0,Haze,41789
+30.0,76.0,Haze,42390
+30.0,76.0,Haze,42991
+30.0,75.0,Haze,43591
+30.0,75.0,Haze,44192
+30.0,73.0,Haze,44793
+30.0,71.0,Haze,45393
+30.0,72.0,Haze,45994
+30.0,72.0,Haze,46595
+30.0,71.0,Haze,47195
+30.0,71.0,Haze,47796
+30.0,69.0,Haze,48396
+31.0,71.0,Haze,48619
+30.0,70.0,Haze,49141
+30.0,70.0,Haze,49742
+31.0,70.0,Haze,50342
+30.0,70.0,Haze,50943
+31.0,68.0,Haze,51544
+31.0,71.0,Haze,52144
+31.0,70.0,Haze,52745
+31.0,71.0,Haze,53345
+30.0,71.0,Haze,53946
+31.0,71.0,Haze,54547
+30.0,73.0,Haze,55147
+30.0,71.0,Haze,55748
+29.0,76.0,Fog,65797
+29.0,76.0,Fog,66397
+29.0,76.0,Fog,66998
+29.0,76.0,Fog,67599
+29.0,75.0,Fog,68199
+29.0,75.0,Fog,68800
+29.0,75.0,Fog,69401
+29.0,76.0,Fog,70001
+29.0,76.0,Fog,70602
+29.0,77.0,Fog,71203
+29.0,78.0,Fog,71803
+29.0,78.0,Fog,72404
+29.0,79.0,Fog,73005
+29.0,79.0,Fog,73605
+29.0,80.0,Fog,74206
+29.0,80.0,Fog,74807
+29.0,80.0,Fog,75407
+29.0,80.0,Fog,76008
+29.0,80.0,Fog,76609
+29.0,80.0,Fog,77210
+29.0,80.0,Fog,77810
+29.0,80.0,Fog,78411
+29.0,80.0,Fog,79012
+29.0,80.0,Fog,79612
+29.0,80.0,Fog,80213
+29.0,82.0,Fog,85827
+29.0,82.0,Fog,28
+29.0,81.0,Fog,630
+29.0,83.0,Fog,1231
+29.0,83.0,Fog,1832
+29.0,84.0,Fog,2434
+29.0,84.0,Fog,3036
+29.0,84.0,Fog,3637
+28.0,84.0,Fog,4238
+28.0,84.0,Fog,4839
+28.0,84.0,Fog,5440
+28.0,84.0,Fog,6041
+28.0,84.0,Fog,6642
+28.0,84.0,Fog,7243
+28.0,84.0,Fog,7844
+28.0,84.0,Fog,8445
+28.0,84.0,Fog,9046
+28.0,84.0,Fog,9647
+28.0,84.0,Fog,10248
+28.0,84.0,Fog,10849
+28.0,84.0,Fog,11449
+28.0,84.0,Fog,12050
+28.0,84.0,Fog,12651
+28.0,84.0,Fog,13253
+28.0,84.0,Fog,13854
+28.0,84.0,Fog,14454
+28.0,84.0,Fog,15055
+28.0,84.0,Fog,15656
+28.0,84.0,Fog,16257
+28.0,84.0,Fog,16858
+28.0,84.0,Fog,17459
+28.0,84.0,Fog,18060
+28.0,84.0,Fog,18661
+28.0,84.0,Fog,19262
+28.0,84.0,Fog,19863
+28.0,84.0,Fog,20464
+28.0,84.0,Fog,21065
+28.0,84.0,Fog,21666
+28.0,84.0,Fog,22267
+28.0,84.0,Fog,22868
+28.0,84.0,Fog,23469
+28.0,84.0,Fog,24070
+28.0,83.0,Fog,24671
+28.0,83.0,Fog,25272
+28.0,83.0,Fog,25873
+28.0,83.0,Fog,26474
+28.0,83.0,Fog,27075
+28.0,83.0,Fog,27676
+28.0,83.0,Fog,28277
+28.0,83.0,Fog,28878
+28.0,83.0,Fog,29479
+29.0,82.0,Fog,35266
+29.0,80.0,Fog,35867
+29.0,80.0,Fog,36468
+29.0,80.0,Fog,37069
+29.0,80.0,Fog,37670
+29.0,80.0,Fog,38271
+29.0,79.0,Fog,38873
+29.0,77.0,Fog,39474
+29.0,76.0,Fog,40076
+29.0,76.0,Haze,40677
+29.0,76.0,Haze,41278
+29.0,74.0,Haze,41879
+29.0,74.0,Haze,42480
+29.0,75.0,Haze,43081
+29.0,80.0,Fog,66298
+29.0,80.0,Fog,66899
+29.0,80.0,Fog,67500
+29.0,80.0,Fog,68101
+29.0,81.0,Fog,68702
+29.0,81.0,Fog,69303
+29.0,81.0,Scattered clouds,69904
+29.0,82.0,Broken clouds,70505
+29.0,84.0,Scattered clouds,71372
+29.0,84.0,Fog,71974
+29.0,84.0,Fog,72575
+29.0,84.0,Fog,73176
+29.0,84.0,Fog,73778
+29.0,84.0,Fog,74381
+29.0,84.0,Fog,74982
+29.0,84.0,Fog,75584
+29.0,83.0,Fog,76185
+29.0,83.0,Fog,76787
+29.0,84.0,Fog,77388
+29.0,84.0,Fog,77991
+29.0,84.0,Heavy rain,78592
+29.0,84.0,Heavy rain,79194
+29.0,84.0,Heavy rain,79795
+29.0,85.0,Heavy rain,80396
+29.0,86.0,Heavy rain,80997
+28.0,87.0,Heavy rain,81599
+28.0,87.0,Moderate rain,82201
+28.0,85.0,Moderate rain,82802
+28.0,85.0,Moderate rain,83404
+28.0,84.0,Moderate rain,84006
+28.0,84.0,Overcast clouds,84607
+28.0,84.0,Overcast clouds,85208
+28.0,85.0,Moderate rain,85810
+28.0,85.0,Moderate rain,11
+28.0,86.0,Moderate rain,612
+28.0,86.0,Heavy rain,1213
+28.0,87.0,Heavy rain,1814
+28.0,86.0,Heavy rain,2415
+28.0,85.0,Heavy rain,3016
+28.0,85.0,Heavy rain,3617
+28.0,86.0,Moderate rain,4218
+28.0,86.0,Moderate rain,4819
+28.0,86.0,Light rain,5420
+28.0,85.0,Moderate rain,6021
+28.0,84.0,Light rain,6622
+28.0,84.0,Light rain,7223
+28.0,84.0,Light rain,7825
+28.0,84.0,Light rain,8426
+28.0,85.0,Light rain,9027
+28.0,85.0,Light rain,9628
+28.0,85.0,Light rain,10230
+28.0,86.0,Light rain,10831
+28.0,87.0,Light rain,11432
+28.0,87.0,Light rain,12033
+28.0,86.0,Light rain,12635
+28.0,85.0,Light rain,13236
+28.0,85.0,Light rain,13837
+28.0,85.0,Light rain,14438
+28.0,85.0,Light rain,15039
+28.0,84.0,Overcast clouds,15640
+28.0,84.0,Overcast clouds,16241
+28.0,84.0,Overcast clouds,16843
+28.0,84.0,Overcast clouds,17444
+28.0,84.0,Overcast clouds,18045
+28.0,84.0,Overcast clouds,18646
+28.0,84.0,Broken clouds,19248
+28.0,84.0,Fog,19849
+28.0,84.0,Fog,20450
+28.0,84.0,Fog,21051
+28.0,84.0,Fog,21653
+28.0,84.0,Fog,22254
+28.0,84.0,Fog,22855
+28.0,84.0,Fog,23457
+28.0,84.0,Fog,24058
+28.0,84.0,Fog,24659
+28.0,84.0,Fog,25260
+28.0,84.0,Fog,25861
+28.0,84.0,Fog,26462
+28.0,84.0,Fog,27063
+28.0,84.0,Fog,27664
+28.0,84.0,Fog,28266
+28.0,84.0,Fog,28867
+28.0,87.0,Overcast clouds,61991
+28.0,87.0,Overcast clouds,62592
+27.0,92.0,Light rain,84600
+27.0,90.0,Light rain,85500
+27.0,88.0,Light rain,0
+27.0,88.0,Light rain,900
+27.0,88.0,Light rain,1800
+27.0,88.0,Light rain,2700
+27.0,88.0,Light rain,3600
+27.0,88.0,Light rain,4500
+27.0,88.0,Light rain,5400
+26.5,91.0,Light rain,6300
+26.0,94.0,Light rain,7200
+26.0,94.0,Light rain,8100
+26.0,94.0,Light rain,9000
+26.0,94.0,Light rain,9900
+26.0,94.0,Light rain,10800
+26.5,91.0,Haze,11700
+27.0,88.0,Haze,12600
+27.0,88.0,Haze,13500
+27.0,88.0,Haze,14400
+27.0,88.0,Haze,15300
+27.0,88.0,Haze,16200
+26.5,91.0,Haze,17100
+26.0,94.0,Haze,18000
+26.0,94.0,Haze,18900
+26.0,94.0,Haze,19800
+26.0,94.0,Light rain,20700
+26.0,94.0,Light rain,21600
+26.0,94.0,Light rain,22500
+26.0,94.0,Light rain,23400
+26.0,94.0,Light rain,24300
+26.0,94.0,Light rain,25200
+26.0,94.0,Light rain,26100
+26.0,94.0,Light rain,27000
+26.0,94.0,Light rain,27900
+26.0,94.0,Light rain,28800
+26.5,93.0,Light rain,29700
+27.0,93.0,Light rain,30600
+27.0,93.0,Light rain,31500
+27.0,94.0,Haze,32400
+27.0,94.0,Haze,33300
+27.0,94.0,Haze,34200
+26.0,94.0,Haze,35100
+25.0,94.0,Haze,36000
+25.0,94.0,Haze,36900
+25.0,94.0,Haze,37800
+25.5,91.0,Haze,38700
+26.0,88.0,Haze,39600
+25.8,91.0,Overcast clouds,40500
+25.6,94.0,Overcast clouds,41400
+25.8,94.0,Overcast clouds,42300
+26.0,94.0,Haze,43200
+26.0,94.0,Haze,44100
+26.0,94.0,Haze,45000
+26.5,94.0,Haze,45900
+27.0,94.0,Haze,46800
+27.5,94.0,Haze,47700
+28.0,94.0,Haze,48600
+28.5,94.0,Haze,49500
+29.0,94.0,Overcast clouds,50400
+28.7,90.0,Overcast clouds,51300
+28.4,86.0,Overcast clouds,52200
+28.7,87.0,Overcast clouds,53100
+29.0,88.0,Overcast clouds,54000
+29.5,86.0,Overcast clouds,54900
+30.0,84.0,Overcast clouds,55800
+29.5,83.0,Overcast clouds,56700
+29.0,83.0,Haze,57600
+28.5,86.0,Haze,58500
+28.0,88.0,Haze,59400
+28.0,88.0,Overcast clouds,60300
+28.0,88.0,Overcast clouds,61200
+27.5,91.0,Overcast clouds,62100
+27.0,93.0,Overcast clouds,63000
+27.5,88.0,Overcast clouds,63900
+28.0,83.0,Overcast clouds,64800
+28.0,83.0,Overcast clouds,65700
+28.0,83.0,Overcast clouds,66600
+27.5,86.0,Broken clouds,67500
+27.0,88.0,Broken clouds,68400
+27.0,88.0,Broken clouds,69300
+27.0,88.0,Broken clouds,70200
+27.0,88.0,Broken clouds,71100
+27.0,88.0,Broken clouds,72000
+26.6,91.0,Light rain,72900
+26.2,93.0,Light rain,73800
+26.6,91.0,Light rain,74700
+27.0,88.0,Light rain,75600
+26.5,88.0,Light rain,76500
+26.0,88.0,Haze,77400
+26.0,88.0,Haze,78300
+26.0,88.0,Haze,79200
+26.0,91.0,Haze,80100
+26.0,94.0,Haze,81000
+26.0,94.0,Haze,81900
+26.0,94.0,Haze,82800
+25.9,96.0,Overcast clouds,83700
+25.8,98.0,Fog,84600
+25.9,96.0,Overcast clouds,85500
+26.0,94.0,Haze,0
+26.0,94.0,Light rain,900
+26.0,94.0,Light rain,1800
+26.0,94.0,Light rain,2700
+26.0,94.0,Light rain,3600
+26.0,91.0,Light rain,4500
+26.0,88.0,Light rain,5400
+26.0,88.0,Light rain,6300
+26.0,88.0,Haze,7200
+25.6,93.0,Broken clouds,8100
+25.2,98.0,Light rain,9000
+25.6,93.0,Light rain,9900
+26.0,88.0,Light rain,10800
+26.0,91.0,Light rain,11700
+26.0,94.0,Light rain,12600
+26.0,94.0,Light rain,13500
+26.0,94.0,Light rain,14400
+26.0,94.0,Light rain,15300
+26.0,94.0,Light rain,16200
+26.0,94.0,Light rain,17100
+26.0,94.0,Haze,18000
+25.7,95.0,Overcast clouds,18900
+25.4,96.0,Light rain,19800
+25.7,92.0,Overcast clouds,20700
+26.0,88.0,Haze,21600
+26.0,88.0,Light rain,22500
+26.0,88.0,Light rain,23400
+26.0,88.0,Light rain,24300
+26.0,88.0,Light rain,25200
+26.0,88.0,Light rain,26100
+26.0,88.0,Light rain,27000
+26.0,91.0,Light rain,27900
+26.0,94.0,Light rain,28800
+25.8,94.0,Light rain,29700
+25.6,94.0,Overcast clouds,30600
+25.8,94.0,Overcast clouds,31500
+26.0,94.0,Overcast clouds,32400
+26.0,94.0,Overcast clouds,33300
+26.0,94.0,Overcast clouds,34200
+26.5,94.0,Overcast clouds,35100
+27.0,94.0,Overcast clouds,36000
+27.0,94.0,Overcast clouds,36900
+27.0,94.0,Overcast clouds,37800
+27.5,91.0,Overcast clouds,38700
+28.0,88.0,Overcast clouds,39600
+28.3,86.0,Overcast clouds,40500
+28.6,83.0,Broken clouds,41400
+28.8,86.0,Overcast clouds,42300
+29.0,88.0,Overcast clouds,43200
+29.0,88.0,Overcast clouds,44100
+29.0,88.0,Overcast clouds,45000
+29.5,86.0,Light rain,45900
+30.0,84.0,Light rain,46800
+30.0,81.0,Light rain,47700
+30.0,79.0,Light rain,48600
+30.5,79.0,Light rain,49500
+31.0,79.0,Light rain,50400
+30.8,72.0,Light rain,51300
+30.6,65.0,Light rain,52200
+30.3,72.0,Light rain,53100
+30.0,79.0,Light rain,54000
+30.0,79.0,Light rain,54900
+30.0,79.0,Overcast clouds,55800
+29.5,79.0,Light rain,56700
+29.0,79.0,Light rain,57600
+29.0,79.0,Light rain,58500
+29.0,79.0,Light rain,59400
+28.5,81.0,Light rain,60300
+28.0,83.0,Light rain,61200
+27.8,84.0,Light rain,62100
+27.6,84.0,Light rain,63000
+27.3,86.0,Light rain,63900
+27.0,88.0,Light rain,64800
+27.0,88.0,Light rain,65700
+27.0,88.0,Light rain,66600
+27.0,88.0,Light rain,67500
+27.0,88.0,Light rain,68400
+27.0,88.0,Light rain,69300
+27.0,88.0,Light rain,70200
+27.0,88.0,Light rain,71100
+27.0,88.0,Light rain,72000
+26.8,89.0,Light rain,72900
+26.6,90.0,Light rain,73800
+26.3,92.0,Light rain,74700
+26.0,94.0,Light rain,75600
+26.0,94.0,Light rain,76500
+26.0,94.0,Overcast clouds,77400
+26.0,94.0,Broken clouds,78300
+26.0,94.0,Broken clouds,79200
+26.0,94.0,Broken clouds,80100
+26.0,94.0,Broken clouds,81000
+26.5,91.0,Broken clouds,81900
+27.0,88.0,Broken clouds,82800
+26.6,90.0,Broken clouds,83700
+26.2,92.0,Broken clouds,84600
+26.6,90.0,Light rain,85500
+27.0,88.0,Light rain,0
+27.0,88.0,Light rain,900
+27.0,88.0,Light rain,1800
+27.0,88.0,Light rain,2700
+27.0,88.0,Light rain,3600
+27.0,88.0,Light rain,4500
+27.0,88.0,Broken clouds,5400
+26.5,91.0,Light rain,6300
+26.0,94.0,Light rain,7200
+25.9,95.0,Light rain,8100
+25.8,96.0,Light rain,9000
+25.9,95.0,Light rain,9900
+26.0,94.0,Light rain,10800
+26.0,94.0,Light rain,11700
+26.0,94.0,Light rain,12600
+26.0,94.0,Light rain,13500
+26.0,94.0,Light rain,14400
+26.0,94.0,Light rain,15300
+26.0,94.0,Light rain,16200
+26.0,94.0,Light rain,17100
+26.0,94.0,Light rain,18000
+25.7,95.0,Light rain,18900
+25.4,96.0,Light rain,19800
+25.7,95.0,Light rain,20700
+26.0,94.0,Light rain,21600
+26.0,94.0,Light rain,22500
+26.0,94.0,Light rain,23400
+26.0,94.0,Light rain,24300
+26.0,94.0,Light rain,25200
+26.5,91.0,Light rain,26100
+27.0,88.0,Light rain,27000
+27.0,88.0,Light rain,27900
+27.0,88.0,Light rain,28800
+27.1,88.0,Light rain,29700
+27.2,87.0,Broken clouds,30600
+28.1,88.0,Broken clouds,31500
+29.0,88.0,Broken clouds,32400
+29.0,88.0,Broken clouds,33300
+29.0,88.0,Broken clouds,34200
+29.5,83.0,Broken clouds,35100
+30.0,79.0,Broken clouds,36000
+30.0,81.0,Broken clouds,36900
+30.0,84.0,Broken clouds,37800
+30.5,79.0,Light rain,38700
+31.0,74.0,Light rain,39600
+30.6,75.0,Light rain,40500
+30.2,75.0,Light rain,41400
+30.6,75.0,Light rain,42300
+31.0,74.0,Light rain,43200
+31.0,74.0,Light rain,44100
+31.0,74.0,Light rain,45000
+31.0,77.0,Light rain,45900
+31.0,79.0,Broken clouds,46800
+30.5,79.0,Broken clouds,47700
+30.0,79.0,Overcast clouds,48600
+30.0,79.0,Overcast clouds,49500
+30.0,79.0,Light rain,50400
+30.0,73.0,Light rain,51300
+30.0,67.0,Light rain,52200
+29.5,75.0,Light rain,53100
+29.0,83.0,Light rain,54000
+29.0,83.0,Light rain,54900
+29.0,83.0,Light rain,55800
+29.0,83.0,Light rain,56700
+29.0,83.0,Light rain,57600
+29.0,83.0,Light rain,58500
+29.0,83.0,Light rain,59400
+29.0,83.0,Light rain,60300
+29.0,83.0,Light rain,61200
+28.3,84.0,Light rain,62100
+27.6,84.0,Broken clouds,63000
+27.8,84.0,Overcast clouds,63900
+28.0,83.0,Overcast clouds,64800
+28.0,83.0,Overcast clouds,65700
+28.0,83.0,Overcast clouds,66600
+28.0,83.0,Overcast clouds,67500
+28.0,83.0,Overcast clouds,68400
+28.0,83.0,Broken clouds,69300
+28.0,83.0,Broken clouds,70200
+28.0,83.0,Broken clouds,71100
+28.0,83.0,Broken clouds,72000
+27.5,85.0,Broken clouds,72900
+27.0,87.0,Broken clouds,73800
+27.5,88.0,Broken clouds,74700
+28.0,88.0,Broken clouds,75600
+28.0,88.0,Broken clouds,76500
+28.0,88.0,Broken clouds,77400
+28.0,88.0,Broken clouds,78300
+28.0,88.0,Broken clouds,79200
+28.0,88.0,Broken clouds,80100
+28.0,88.0,Broken clouds,81000
+28.0,88.0,Broken clouds,81900
+28.0,88.0,Broken clouds,82800
+27.3,89.0,Broken clouds,83700
+26.6,90.0,Broken clouds,84600
+27.3,89.0,Broken clouds,85500
+28.0,88.0,Broken clouds,0
+28.0,86.0,Broken clouds,900
+28.0,83.0,Broken clouds,1800
+28.0,83.0,Broken clouds,2700
+28.0,83.0,Broken clouds,3600
+28.0,83.0,Broken clouds,4500
+28.0,83.0,Broken clouds,5400
+27.5,86.0,Broken clouds,6300
+27.0,88.0,Broken clouds,7200
+26.6,90.0,Broken clouds,8100
+26.2,92.0,Broken clouds,9000
+26.6,90.0,Broken clouds,9900
+27.0,88.0,Broken clouds,10800
+27.0,88.0,Broken clouds,11700
+27.0,88.0,Broken clouds,12600
+27.0,88.0,Broken clouds,13500
+27.0,88.0,Broken clouds,14400
+27.0,88.0,Broken clouds,15300
+27.0,88.0,Broken clouds,16200
+27.0,88.0,Broken clouds,17100
+27.0,88.0,Broken clouds,18000
+26.3,90.0,Broken clouds,18900
+25.6,93.0,Scattered clouds,19800
+25.8,93.0,Broken clouds,20700
+26.0,94.0,Broken clouds,21600
+26.0,94.0,Broken clouds,22500
+26.0,94.0,Broken clouds,23400
+26.5,91.0,Broken clouds,24300
+27.0,88.0,Broken clouds,25200
+27.0,91.0,Broken clouds,26100
+27.0,94.0,Broken clouds,27000
+27.5,91.0,Broken clouds,27900
+28.0,88.0,Broken clouds,28800
+28.0,88.0,Broken clouds,29700
+28.0,87.0,Broken clouds,30600
+28.5,88.0,Broken clouds,31500
+29.0,88.0,Broken clouds,32400
+29.5,86.0,Broken clouds,33300
+30.0,84.0,Overcast clouds,34200
+30.5,81.0,Overcast clouds,35100
+31.0,79.0,Overcast clouds,36000
+31.0,79.0,Overcast clouds,36900
+31.0,79.0,Overcast clouds,37800
+30.5,81.0,Overcast clouds,38700
+30.0,84.0,Overcast clouds,39600
+30.3,81.0,Overcast clouds,40500
+30.6,79.0,Overcast clouds,41400
+30.3,79.0,Overcast clouds,42300
+30.0,79.0,Overcast clouds,43200
+30.0,81.0,Overcast clouds,44100
+30.0,84.0,Overcast clouds,45000
+30.5,81.0,Overcast clouds,45900
+31.0,79.0,Overcast clouds,46800
+30.5,81.0,Overcast clouds,47700
+30.0,84.0,Overcast clouds,48600
+30.0,84.0,Overcast clouds,49500
+30.0,84.0,Overcast clouds,50400
+30.1,78.0,Overcast clouds,51300
+30.2,74.0,Broken clouds,52200
+30.1,76.0,Broken clouds,53100
+30.0,79.0,Broken clouds,54000
+29.5,81.0,Broken clouds,54900
+29.0,83.0,Broken clouds,55800
+29.5,81.0,Broken clouds,56700
+30.0,79.0,Broken clouds,57600
+29.5,81.0,Broken clouds,58500
+29.0,83.0,Broken clouds,59400
+29.0,83.0,Broken clouds,60300
+29.0,83.0,Broken clouds,61200
+28.5,84.0,Broken clouds,62100
+28.0,84.0,Broken clouds,63000
+28.0,84.0,Broken clouds,63900
+28.0,83.0,Broken clouds,64800
+28.0,83.0,Broken clouds,65700
+28.0,83.0,Broken clouds,66600
+28.0,83.0,Broken clouds,67500
+28.0,83.0,Broken clouds,68400
+28.0,83.0,Broken clouds,69300
+28.0,83.0,Broken clouds,70200
+28.0,83.0,Broken clouds,71100
+28.0,83.0,Broken clouds,72000
+27.6,86.0,Broken clouds,72900
+27.2,88.0,Broken clouds,73800
+27.6,86.0,Broken clouds,74700
+28.0,83.0,Broken clouds,75600
+27.5,86.0,Broken clouds,76500
+27.0,88.0,Broken clouds,77400
+27.0,88.0,Broken clouds,78300
+27.0,88.0,Broken clouds,79200
+27.0,88.0,Broken clouds,80100
+27.0,88.0,Broken clouds,81000
+27.0,88.0,Broken clouds,81900
+27.0,88.0,Broken clouds,82800
+27.0,88.0,Broken clouds,83700
+27.0,88.0,Broken clouds,84600
+27.0,88.0,Broken clouds,85500
+27.0,88.0,Broken clouds,0
+27.0,88.0,Broken clouds,900
+27.0,88.0,Broken clouds,1800
+27.0,88.0,Broken clouds,2700
+27.0,88.0,Broken clouds,3600
+27.0,88.0,Broken clouds,4500
+27.0,88.0,Broken clouds,5400
+27.0,88.0,Light rain,6300
+27.0,88.0,Light rain,7200
+26.6,91.0,Light rain,8100
+26.2,93.0,Light rain,9000
+26.1,93.0,Light rain,9900
+26.0,94.0,Light rain,10800
+26.5,91.0,Light rain,11700
+27.0,88.0,Light rain,12600
+27.0,88.0,Light rain,13500
+27.0,88.0,Light rain,14400
+27.0,88.0,Light rain,15300
+27.0,88.0,Light rain,16200
+26.5,91.0,Light rain,17100
+26.0,94.0,Light rain,18000
+26.1,93.0,Light rain,18900
+26.2,93.0,Light rain,19800
+26.1,93.0,Light rain,20700
+26.0,94.0,Overcast clouds,21600
+26.0,94.0,Overcast clouds,22500
+26.0,94.0,Overcast clouds,23400
+26.0,91.0,Overcast clouds,24300
+26.0,88.0,Overcast clouds,25200
+26.0,91.0,Overcast clouds,26100
+26.0,94.0,Overcast clouds,27000
+26.0,94.0,Overcast clouds,27900
+26.0,94.0,Overcast clouds,28800
+26.3,92.0,Overcast clouds,29700
+26.6,90.0,Overcast clouds,30600
+27.3,89.0,Overcast clouds,31500
+28.0,88.0,Overcast clouds,32400
+28.0,91.0,Overcast clouds,33300
+28.0,94.0,Overcast clouds,34200
+28.5,91.0,Overcast clouds,35100
+29.0,88.0,Overcast clouds,36000
+29.0,88.0,Overcast clouds,36900
+29.0,88.0,Overcast clouds,37800
+29.0,83.0,Overcast clouds,38700
+29.0,79.0,Haze,39600
+29.2,79.0,Broken clouds,40500
+29.4,80.0,Broken clouds,41400
+28.2,84.0,Broken clouds,42300
+27.0,88.0,Haze,43200
+27.5,88.0,Overcast clouds,44100
+28.0,88.0,Overcast clouds,45000
+28.5,88.0,Light rain,45900
+29.0,88.0,Light rain,46800
+29.5,86.0,Light rain,47700
+30.0,84.0,Light rain,48600
+30.0,84.0,Light rain,49500
+30.0,84.0,Light rain,50400
+30.3,76.0,Broken clouds,51300
+30.6,70.0,Scattered clouds,52200
+30.8,74.0,Broken clouds,53100
+31.0,79.0,Overcast clouds,54000
+31.0,77.0,Overcast clouds,54900
+31.0,74.0,Overcast clouds,55800
+30.5,76.0,Overcast clouds,56700
+30.0,79.0,Overcast clouds,57600
+30.0,79.0,Overcast clouds,58500
+30.0,79.0,Overcast clouds,59400
+29.5,81.0,Overcast clouds,60300
+29.0,83.0,Overcast clouds,61200
+29.0,81.0,Broken clouds,62100
+29.0,79.0,Scattered clouds,63000
+28.5,81.0,Broken clouds,63900
+28.0,83.0,Overcast clouds,64800
+28.0,83.0,Overcast clouds,65700
+28.0,83.0,Overcast clouds,66600
+28.0,83.0,Overcast clouds,67500
+28.0,83.0,Overcast clouds,68400
+27.5,86.0,Overcast clouds,69300
+27.0,88.0,Overcast clouds,70200
+27.5,86.0,Light rain,71100
+28.0,83.0,Light rain,72000
+27.5,85.0,Light rain,72900
+27.0,87.0,Light rain,73800
+27.5,85.0,Light rain,74700
+28.0,83.0,Overcast clouds,75600
+28.0,83.0,Overcast clouds,76500
+28.0,83.0,Overcast clouds,77400
+28.0,83.0,Overcast clouds,78300
+28.0,83.0,Overcast clouds,79200
+27.5,86.0,Overcast clouds,80100
+27.0,88.0,Overcast clouds,81000
+27.0,88.0,Overcast clouds,81900
+27.0,88.0,Overcast clouds,82800
+26.6,90.0,Broken clouds,83700
+26.2,92.0,Haze,84600
+26.1,90.0,Broken clouds,85500
+26.0,88.0,Overcast clouds,0
+26.0,88.0,Overcast clouds,900
+26.0,88.0,Overcast clouds,1800
+26.0,88.0,Overcast clouds,2700
+26.0,88.0,Overcast clouds,3600
+26.0,88.0,Overcast clouds,4500
+26.0,88.0,Overcast clouds,5400
+26.0,91.0,Overcast clouds,6300
+26.0,94.0,Overcast clouds,7200
+26.0,93.0,Broken clouds,8100
+26.0,93.0,Haze,9000
+26.0,93.0,Haze,9900
+26.0,94.0,Overcast clouds,10800
+26.0,91.0,Light rain,11700
+26.0,88.0,Light rain,12600
+26.0,88.0,Light rain,13500
+26.0,88.0,Light rain,14400
+26.0,88.0,Overcast clouds,15300
+26.0,88.0,Overcast clouds,16200
+26.0,88.0,Light rain,17100
+26.0,88.0,Light rain,18000
+26.0,90.0,Light rain,18900
+26.0,92.0,Light rain,19800
+26.0,90.0,Light rain,20700
+26.0,88.0,Light rain,21600
+26.0,88.0,Light rain,22500
+26.0,88.0,Haze,23400
+26.0,91.0,Haze,24300
+26.0,94.0,Haze,25200
+26.5,91.0,Haze,26100
+27.0,88.0,Haze,27000
+27.0,91.0,Haze,27900
+27.0,94.0,Haze,28800
+27.9,88.0,Broken clouds,29700
+28.8,83.0,Overcast clouds,30600
+28.9,86.0,Broken clouds,31500
+29.0,88.0,Broken clouds,32400
+29.5,86.0,Broken clouds,33300
+30.0,84.0,Broken clouds,34200
+30.0,84.0,Light rain,35100
+30.0,84.0,Light rain,36000
+30.0,84.0,Light rain,36900
+30.0,84.0,Light rain,37800
+30.0,84.0,Light rain,38700
+30.0,84.0,Light rain,39600
+30.1,79.0,Overcast clouds,40500
+30.2,75.0,Overcast clouds,41400
+30.1,79.0,Light rain,42300
+30.0,84.0,Light rain,43200
+30.0,84.0,Light rain,44100
+30.0,84.0,Light rain,45000
+30.5,81.0,Light rain,45900
+31.0,79.0,Light rain,46800
+30.5,79.0,Light rain,47700
+30.0,79.0,Light rain,48600
+29.0,81.0,Light rain,49500
+28.0,83.0,Light rain,50400
+29.0,79.0,Light rain,51300
+30.0,75.0,Light rain,52200
+29.5,79.0,Light rain,53100
+29.0,83.0,Light rain,54000
+29.5,83.0,Light rain,54900
+30.0,84.0,Light rain,55800
+29.5,83.0,Light rain,56700
+29.0,83.0,Light rain,57600
+28.5,83.0,Light rain,58500
+28.0,83.0,Haze,59400
+28.5,83.0,Haze,60300
+29.0,83.0,Haze,61200
+28.8,82.0,Haze,62100
+28.6,80.0,Haze,63000
+28.3,82.0,Haze,63900
+28.0,83.0,Broken clouds,64800
+28.0,83.0,Broken clouds,65700
+28.0,83.0,Broken clouds,66600
+28.0,83.0,Broken clouds,67500
+28.0,83.0,Broken clouds,68400
+28.0,86.0,Broken clouds,69300
+28.0,88.0,Broken clouds,70200
+28.0,88.0,Broken clouds,71100
+28.0,88.0,Overcast clouds,72000
+28.0,86.0,Broken clouds,72900
+28.0,84.0,Scattered clouds,73800
+28.0,86.0,Broken clouds,74700
+28.0,88.0,Overcast clouds,75600
+28.0,88.0,Overcast clouds,76500
+28.0,88.0,Overcast clouds,77400
+28.0,86.0,Broken clouds,78300
+28.0,83.0,Broken clouds,79200
+28.0,83.0,Broken clouds,80100
+28.0,83.0,Broken clouds,81000
+28.0,83.0,Broken clouds,81900
+28.0,83.0,Light rain,82800
+27.5,87.0,Light rain,83700
+27.0,90.0,Light rain,84600
+27.0,89.0,Light rain,85500
+27.0,88.0,Light rain,0
+27.0,88.0,Light rain,900
+27.0,88.0,Broken clouds,1800
+27.0,88.0,Broken clouds,2700
+27.0,88.0,Broken clouds,3600
+27.0,88.0,Broken clouds,4500
+27.0,88.0,Broken clouds,5400
+27.0,88.0,Broken clouds,6300
+27.0,88.0,Broken clouds,7200
+26.7,89.0,Broken clouds,8100
+26.4,90.0,Scattered clouds,9000
+26.2,92.0,Broken clouds,9900
+26.0,94.0,Haze,10800
+26.0,94.0,Broken clouds,11700
+26.0,94.0,Broken clouds,12600
+26.0,94.0,Broken clouds,13500
+26.0,94.0,Light rain,14400
+26.0,94.0,Light rain,15300
+26.0,94.0,Light rain,16200
+26.0,94.0,Light rain,17100
+26.0,94.0,Moderate rain,18000
+26.0,88.0,Moderate rain,18900
+26.0,88.0,Moderate rain,19800
+26.0,88.0,Moderate rain,20700
+26.0,88.0,Moderate rain,21600
+26.0,94.0,Moderate rain,22500
+26.0,94.0,Light rain,23400
+26.0,94.0,Light rain,24300
+26.0,94.0,Light rain,25200
+26.0,94.0,Light rain,26100
+26.0,94.0,Light rain,27000
+26.0,88.0,Overcast clouds,27900
+26.0,88.0,Overcast clouds,28800
+26.0,88.0,Overcast clouds,29700
+26.0,94.0,Overcast clouds,30600
+27.0,88.0,Overcast clouds,31500
+27.0,88.0,Overcast clouds,32400
+27.0,88.0,Overcast clouds,33300
+27.0,88.0,Overcast clouds,34200
+27.0,88.0,Overcast clouds,35100
+27.0,88.0,Overcast clouds,36000
+28.0,88.0,Overcast clouds,36900
+28.0,88.0,Overcast clouds,37800
+28.0,88.0,Light rain,38700
+29.0,83.0,Light rain,39600
+29.0,83.0,Overcast clouds,40500
+30.0,83.0,Overcast clouds,41400
+30.0,83.0,Light rain,42300
+30.0,83.0,Light rain,43200
+30.0,83.0,Light rain,44100
+29.0,83.0,Light rain,45000
+28.0,83.0,Light rain,45900
+28.0,83.0,Light rain,46800
+28.0,83.0,Light rain,47700
+30.0,83.0,Light rain,48600
+30.0,83.0,Light rain,49500
+29.0,83.0,Overcast clouds,50400
+29.0,83.0,Overcast clouds,51300
+29.0,83.0,Overcast clouds,52200
+30.0,79.0,Overcast clouds,53100
+30.0,79.0,Overcast clouds,54000
+30.0,79.0,Broken clouds,54900
+30.0,79.0,Broken clouds,55800
+29.0,83.0,Light rain,56700
+29.0,83.0,Light rain,57600
+29.0,83.0,Light rain,58500
+29.0,83.0,Light rain,59400
+29.0,83.0,Light rain,60300
+29.0,83.0,Light rain,61200
+29.0,79.0,Light rain,62100
+29.0,79.0,Overcast clouds,63000
+29.0,79.0,Overcast clouds,63900
+26.0,88.0,Overcast clouds,64800
+26.0,94.0,Overcast clouds,65700
+26.0,94.0,Overcast clouds,66600
+27.0,88.0,Overcast clouds,67500
+27.0,88.0,Overcast clouds,68400
+27.0,88.0,Overcast clouds,69300
+27.0,94.0,Overcast clouds,70200
+27.0,94.0,Overcast clouds,71100
+27.0,94.0,Overcast clouds,72000
+27.0,94.0,Overcast clouds,72900
+25.0,94.0,Overcast clouds,73800
+25.0,94.0,Light rain,74700
+25.0,88.0,Light rain,75600
+25.0,88.0,Light rain,76500
+26.0,88.0,Light rain,77400
+26.0,88.0,Light rain,78300
+26.0,88.0,Light rain,79200
+26.0,88.0,Light rain,80100
+26.0,94.0,Broken clouds,81000
+26.0,94.0,Broken clouds,81900
+26.0,94.0,Broken clouds,82800
+26.0,94.0,Broken clouds,83700
