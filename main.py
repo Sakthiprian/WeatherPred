@@ -10,7 +10,7 @@ api_url = 'https://api.weatherbit.io/v2.0/current'
 params = {
     'lat': '12.8513',   # latitude of kandigai
     'lon': '80.1470',   # longitude of kandigai
-    'key': 'd8444b8f69634c0b9d3369b034820820',  # Weatherbit API key
+    'key': '947141b2db6e415bb279750e5775f1ae',  # Weatherbit API key
     'units': 'M',  # Metric units (you can change this to 'I' for imperial or 'S' for scientific)
 }
 
